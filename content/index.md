@@ -1,9 +1,5 @@
-# Nuxt Content
+# My Portfolio
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+Hello to my-portfolio in nuxt.js
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
-
----
-
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+[/minhapagina](/about).
