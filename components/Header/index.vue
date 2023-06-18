@@ -1,5 +1,5 @@
 <template>
-  <main class="text-white h-10 w-[100] flex items-center justify-between">
+  <header class="text-cyan-50 h-10 w-[100] flex items-center justify-between">
     <div>
       <NuxtLink to="/">
         <img src="@/assets/logo.svg" alt="Logo Página Portfolio" />
@@ -14,5 +14,5 @@
       <NuxtLink to="/login">Login</NuxtLink>
       <NuxtLink to="/">Configuração</NuxtLink>
     </div>
-  </main>
+  </header>
 </template>
