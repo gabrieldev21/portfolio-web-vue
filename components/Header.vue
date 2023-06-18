@@ -2,7 +2,7 @@
   <main class="text-white h-10 w-[100] flex items-center justify-between">
     <div>
       <NuxtLink to="/">
-        <img src="/logo.svg" alt="Logo Página Portfolio" />
+        <img src="@/assets/logo.svg" alt="Logo Página Portfolio" />
       </NuxtLink>
     </div>
     <div class="flex gap-12">
